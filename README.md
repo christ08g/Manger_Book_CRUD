@@ -7,4 +7,6 @@
 
 Catatan:
 Jangan lupa membuat databasenya terlebih dahulu (MySQL) dan sesuai kan dengan .env juga untuk nama database dan port
+Letakkan File ini berdasarkan tempat folder nya yang sudah dibuat (ditempat folder vuetify)
+
 
