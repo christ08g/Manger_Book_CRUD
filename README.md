@@ -6,7 +6,8 @@
 6. Jika sudah selesai aplikasi manager book sudah dapat digunakan
 
 Catatan:
-Jangan lupa membuat databasenya terlebih dahulu (MySQL) dan sesuai kan dengan .env juga untuk nama database dan port
-Letakkan File ini berdasarkan tempat folder nya yang sudah dibuat (ditempat folder vuetify)
+1. Jangan lupa membuat databasenya terlebih dahulu (MySQL) dan sesuai kan dengan .env juga untuk nama database dan port
+2. Letakkan File ini berdasarkan tempat folder nya yang sudah dibuat (ditempat folder vuetify beserta node modulesnya)
+
 
 
